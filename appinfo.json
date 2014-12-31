@@ -1,0 +1,46 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Chris Stubbs",
+    "longName": "Pebble app for habitat high altitude balloon tracking",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/habblelogo.png",
+                "menuIcon": true,
+                "name": "IMAGES_HABBLELOGO_PNG",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "HABble",
+    "uuid": "418c8063-c390-43cc-84c6-f0f5e000f221",
+    "versionCode": 1,
+    "versionLabel": "0.2",
+    "watchapp": {
+        "watchface": false
+    }
+}
